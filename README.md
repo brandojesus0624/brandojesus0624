@@ -7,7 +7,7 @@
 ##
 
 <div>
- ![Snake animation](https://github.com/snoxanders/snoxanders/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/brandojesus0624/brandojesus0624/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!---
